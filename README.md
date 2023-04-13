@@ -81,6 +81,8 @@ Logic symbol & Truthtable
 
 Output:
 
+![Uploading WhatsApp Image 2023-04-13 at 1.38.43 PM.jpeg…]()
+
 Result:
 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.

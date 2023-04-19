@@ -81,7 +81,8 @@ Logic symbol & Truthtable
 
 Output:
 
-![Uploading WhatsApp Image 2023-04-13 at 1.38.43 PM.jpeg…]()
+
+![digital proj1](https://user-images.githubusercontent.com/113586376/233005284-8ced9973-a3b3-4734-9d9d-54c642fb6413.jpeg)
 
 Result:
 
